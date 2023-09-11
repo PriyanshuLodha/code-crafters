@@ -1,0 +1,24 @@
+.profile-box{
+    height: 100vh;
+    width:98vw;
+    display:grid;
+    grid-template-rows: 30% 30%;
+    
+}
+.des-name{
+    background-color: #2d2f31;
+    color: white;
+    
+}
+.name-text{
+    font-family: SuisseWorks,Georgia,Times,'Times New Roman',serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';
+    margin-left: 8%;
+    font-size: 50px;
+    margin-top: 5%;
+}
+.email-text{
+    margin-left: 8%;
+    font-size: 30px;
+    margin-top: 3%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

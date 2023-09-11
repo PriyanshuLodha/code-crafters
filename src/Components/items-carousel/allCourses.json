@@ -1,0 +1,813 @@
+[
+  {
+    "id": 1,
+    "name": "Web Development Fundamentals",
+    "description": "Kickstart your web development journey with this beginner-level course. Learn the basics of HTML, CSS, and JavaScript to create simple web pages.",
+    "image": "https://static.vecteezy.com/system/resources/previews/006/879/866/large_2x/website-construction-concept-illustration-with-laptop-free-vector.jpg",
+    "price": " ₹ 999",
+    "CourseHighlights": [
+      "1. Learn HTML, CSS, and JavaScript from scratch.",
+      "2. Build your first web page within the first few lessons.",
+      "3. Understand the fundamental concepts of web development.",
+      "4. Explore the latest best practices in web design and coding.",
+      "5. Get hands-on experience with real-world coding exercises.",
+      "6. Discover the secrets to creating responsive and user-friendly websites.",
+      "7. Dive into web development tools and frameworks.",
+      "8. Access a supportive online community for questions and discussions.",
+      "9. Receive personalized feedback and guidance from experienced instructors.",
+      "10. Gain a solid foundation for pursuing advanced web development courses."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Responsive Web Design",
+    "description": "Become an intermediate web developer by mastering the art of responsive web design. Create websites that look great on any device.",
+    "image": "https://static.vecteezy.com/system/resources/previews/000/304/793/non_2x/responsive-web-design-vector.jpg",
+    "price": " ₹ 1499",
+    "CourseHighlights": [
+      "1. Master the art of creating websites that adapt to any device or screen size.",
+      "2. Learn essential HTML and CSS techniques for responsive layouts.",
+      "3. Dive into media queries and breakpoints for precise control over your designs.",
+      "4. Explore flexible grids and fluid typography for seamless user experiences.",
+      "5. Optimize images and assets for fast loading on all devices.",
+      "6. Test and debug responsive designs across various browsers and devices.",
+      "7. Stay up-to-date with the latest trends and technologies in responsive web design.",
+      "8. Create a responsive portfolio project to showcase your skills to potential clients or employers.",
+      "9. Access resources and tools to streamline your responsive design workflow.",
+      "10. Gain a competitive edge in the web development industry with this valuable skill."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "JavaScript for Beginners",
+    "description": "Dive deeper into JavaScript with this beginner course. Learn to add interactivity and functionality to your web pages.",
+    "image": "https://static.vecteezy.com/system/resources/previews/021/320/295/non_2x/javascript-file-icon-design-free-vector.jpg",
+    "price": " ₹ 1499",
+    "CourseHighlights": [
+      "1. Start your coding journey with JavaScript, the versatile scripting language of the web.",
+      "2. Learn the fundamentals of JavaScript syntax and programming concepts.",
+      "3. Create interactive web pages and add dynamic functionality to your websites.",
+      "4. Explore essential JavaScript libraries and frameworks.",
+      "5. Gain hands-on experience with coding exercises and projects.",
+      "6. Master asynchronous programming and work with APIs for real-world data integration.",
+      "7. Receive personalized guidance and feedback from experienced JavaScript developers.",
+      "8. Join a supportive learning community to connect with fellow beginners and experts.",
+      "9. Build a solid foundation for further JavaScript development and advanced web projects.",
+      "10. No prior coding experience required - this course is designed for absolute beginners."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Front-End Frameworks: React.js",
+    "description": "Take your web development skills to an intermediate level by building dynamic web applications with React.js.",
+    "image": "https://static.vecteezy.com/system/resources/previews/019/123/548/non_2x/computation-computer-computing-data-future-abstract-flat-color-icon-template-free-vector.jpg",
+    "price": " ₹ 2499",
+    "CourseHighlights": [
+      "1. Master the popular React.js framework for building dynamic web applications.",
+      "2. Learn component-based architecture and the virtual DOM for efficient UI development.",
+      "3. Dive into state management with Redux for scalable applications.",
+      "4. Build responsive and interactive user interfaces with ease.",
+      "5. Explore best practices in modern front-end development.",
+      "6. Gain hands-on experience through real-world projects and coding challenges.",
+      "7. Stay up-to-date with the latest React.js updates and trends.",
+      "8. Collaborate with fellow learners in a supportive online community.",
+      "9. Receive mentorship and personalized guidance from experienced React.js developers.",
+      "10. Prepare for a rewarding career in front-end development with in-demand skills."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Node.js and Express for Back-End Development",
+    "description": "Intermediate-level course focusing on server-side development. Learn to build robust back-end applications using Node.js and Express.",
+    "image": "https://static.vecteezy.com/system/resources/previews/019/518/515/non_2x/upload-code-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg",
+    "price": " ₹ 1499",
+    "CourseHighlights": [
+      "1. Master back-end web development using Node.js and Express.js.",
+      "2. Learn to create robust, scalable, and efficient server-side applications.",
+      "3. Understand RESTful API design principles and create APIs from scratch.",
+      "4. Dive into asynchronous programming with JavaScript and handle data effectively.",
+      "5. Explore middleware, routing, and error handling techniques in Express.js.",
+      "6. Secure your applications with authentication and authorization strategies.",
+      "7. Optimize and deploy your Node.js applications for production environments.",
+      "8. Work on real-world projects and gain hands-on experience.",
+      "9. Receive personalized guidance and feedback from experienced instructors.",
+      "10. Advance your career as a back-end developer with in-demand skills."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Advanced Web Security",
+    "description": "Explore the intricacies of web security as an expert. Discover and mitigate vulnerabilities to protect your web applications.",
+    "image": "https://static.vecteezy.com/system/resources/previews/026/588/510/large_2x/data-protection-and-cyber-security-concept-illustration-perfect-for-web-design-banner-mobile-app-landing-page-flat-design-free-vector.jpg",
+    "price": " ₹ 3499",
+    "CourseHighlights": [
+      "1. Dive deep into the world of web security with expert guidance.",
+      "2. Learn to identify and mitigate common web vulnerabilities.",
+      "3. Explore ethical hacking techniques to uncover security flaws.",
+      "4. Understand best practices for securing web applications and databases.",
+      "5. Stay up-to-date with the latest cybersecurity threats and defenses.",
+      "6. Gain hands-on experience through practical security exercises.",
+      "7. Protect your websites and applications from malicious attacks.",
+      "8. Learn to implement security measures in real-world scenarios.",
+      "9. Access valuable resources and tools for ongoing security assessments.",
+      "10. Prepare for a rewarding career in web security or ethical hacking."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Full-Stack Development with MERN Stack",
+    "description": "Expert-level course covering the MERN (MongoDB, Express, React, Node.js) stack. Build complete, high-performance web applications.",
+    "image": "https://static.vecteezy.com/system/resources/previews/019/518/562/non_2x/structure-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg",
+    "price": " ₹ 1899",
+    "CourseHighlights": [
+      "1. Master the MERN (MongoDB, Express, React, Node.js) stack.",
+      "2. Develop dynamic and interactive web applications from start to finish.",
+      "3. Learn to create responsive and user-friendly front-end interfaces with React.",
+      "4. Build robust back-end APIs with Node.js and Express.",
+      "5. Dive into MongoDB, a NoSQL database, for efficient data management.",
+      "6. Gain practical experience through hands-on coding projects.",
+      "7. Understand the principles of full-stack architecture and deployment.",
+      "8. Collaborate with peers and receive mentorship from experienced developers.",
+      "9. Develop a portfolio of real-world projects to showcase your skills.",
+      "10. Prepare for exciting career opportunities in full-stack web development."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Web Performance Optimization",
+    "description": "Master the art of web performance optimization as an expert. Make your websites faster and more efficient for users.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/002/213/905/small_2x/mock-up-design-website-flat-design-concept-seo-analysis-with-graph-and-chart-on-team-developer-building-a-rank-website-on-desktop-illustration-free-vector.jpg",
+    "price": " ₹ 1599",
+    "CourseHighlights": [
+      "1. Learn advanced techniques to optimize website speed and performance.",
+      "2. Improve user experience with faster loading times and smooth interactions.",
+      "3. Discover strategies for reducing page load times on both desktop and mobile devices.",
+      "4. Master the art of image and multimedia optimization for the web.",
+      "5. Implement best practices for efficient coding and resource management.",
+      "6. Dive deep into browser rendering processes and bottlenecks.",
+      "7. Explore content delivery networks (CDNs) and their impact on web performance.",
+      "8. Understand the importance of responsive design and mobile optimization.",
+      "9. Analyze real-world case studies of successful web performance improvements.",
+      "10. Boost your website's search engine ranking and conversion rates through speed optimization."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Python Programming Essentials",
+    "description": "Master the fundamentals of Python, a versatile and widely-used programming language. Learn data types, control structures, and functions. Explore real-world applications in web development, data analysis, and more.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/021/313/020/small_2x/python-file-icon-design-free-vector.jpg",
+    "price": "₹ 1499",
+    "CourseHighlights": [
+      "1. Learn Python syntax and fundamentals from scratch.",
+      "2. Explore object-oriented programming (OOP) concepts in Python.",
+      "3. Build your own Python applications and scripts.",
+      "4. Dive into web development with Django and Flask frameworks.",
+      "5. Analyze data and create visualizations using Python libraries like Pandas and Matplotlib.",
+      "6. Collaborate on Python projects and gain hands-on experience.",
+      "7. Prepare for Python certification exams and career opportunities.",
+      "8. Join a vibrant Python developer community for networking and support."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Java Software Development",
+    "description": "Become a proficient Java developer. Learn Java syntax, object-oriented programming, and JavaEE for building enterprise-level applications. Explore Java frameworks and databases.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/007/938/815/small_2x/concept-illustration-programmer-engineer-with-laptop-sitting-at-the-office-desk-holding-a-pen-while-coding-and-developing-flat-cartoon-style-free-vector.jpg",
+    "price": "₹ 1999",
+    "CourseHighlights": [
+      "1. Master Java programming fundamentals and object-oriented concepts.",
+      "2. Develop desktop applications with JavaFX and Swing.",
+      "3. Build web applications using Java Servlets and JSP.",
+      "4. Explore JavaEE for enterprise-level application development.",
+      "5. Integrate Java applications with databases like MySQL and PostgreSQL.",
+      "6. Work with popular Java frameworks such as Spring and Hibernate.",
+      "7. Gain practical experience through real-world Java projects.",
+      "8. Prepare for Java certification exams and career opportunities."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Mobile App Development with React Native",
+    "description": "Learn to build cross-platform mobile apps with React Native. Develop for iOS and Android using a single codebase. Create responsive and engaging mobile applications.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/017/982/461/small_2x/data-information-mobile-research-science-flat-color-icon-free-vector.jpg",
+    "price": "₹ 1799",
+    "CourseHighlights": [
+      "1. Explore React Native and its advantages for mobile app development.",
+      "2. Build mobile apps for iOS and Android using JavaScript and React components.",
+      "3. Implement navigation, animations, and user interfaces in React Native.",
+      "4. Connect mobile apps to APIs and databases for real-time data.",
+      "5. Optimize and deploy mobile apps to app stores.",
+      "6. Gain hands-on experience through mobile app projects.",
+      "7. Stay up-to-date with the latest React Native updates and best practices.",
+      "8. Prepare for a career as a mobile app developer."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Data Science and Machine Learning",
+    "description": "Become a data scientist and machine learning expert. Learn data analysis, machine learning algorithms, and data visualization. Apply AI techniques to real-world problems.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/019/222/879/small_2x/data-science-blue-5-icon-pack-including-analytics-processor-connect-microchip-web-free-vector.jpg",
+    "price": "₹ 2199",
+    "CourseHighlights": [
+      "1. Dive into data science with Python and libraries like NumPy and Pandas.",
+      "2. Explore machine learning concepts and algorithms, including supervised and unsupervised learning.",
+      "3. Apply AI techniques for natural language processing and computer vision.",
+      "4. Create predictive models and analyze big data sets.",
+      "5. Visualize data with Matplotlib and Seaborn for actionable insights.",
+      "6. Work on real-world data science projects and Kaggle competitions.",
+      "7. Collaborate with data scientists and AI professionals in the industry.",
+      "8. Prepare for a career in data science, AI, or machine learning."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Front-End Web Development",
+    "description": "Master front-end web development. Learn HTML, CSS, and JavaScript for creating modern, interactive, and responsive websites. Explore popular front-end libraries and frameworks.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/015/426/912/small_2x/banner-of-website-development-free-vector.jpg",
+    "price": "₹ 1499",
+    "CourseHighlights": [
+      "1. Learn HTML for structuring web content and forms.",
+      "2. Master CSS for styling and layout design.",
+      "3. Dive into JavaScript for adding interactivity and functionality to web pages.",
+      "4. Explore popular front-end libraries like Bootstrap and Material-UI.",
+      "5. Build responsive and user-friendly web interfaces.",
+      "6. Optimize web performance for faster loading times.",
+      "7. Stay up-to-date with the latest front-end development trends.",
+      "8. Create a portfolio of web projects to showcase your skills to potential employers."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Back-End Web Development with Node.js",
+    "description": "Become a back-end web developer using Node.js. Learn to build scalable and efficient server-side applications. Explore RESTful APIs, databases, and authentication.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/020/656/843/small_2x/code-refactoring-icon-design-free-vector.jpg",
+    "price": "₹ 1699",
+    "CourseHighlights": [
+      "1. Master back-end web development with Node.js and Express.js.",
+      "2. Create RESTful APIs for client-server communication.",
+      "3. Integrate databases like MongoDB for data storage.",
+      "4. Implement user authentication and authorization strategies.",
+      "5. Optimize server performance and scalability.",
+      "6. Secure your applications against common web vulnerabilities.",
+      "7. Work on real-world back-end projects and APIs.",
+      "8. Prepare for a career as a back-end developer in the web industry."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "DevOps and Continuous Integration/Continuous Deployment (CI/CD)",
+    "description": "Master DevOps principles for streamlined software development and deployment. Learn CI/CD pipelines, containerization, and infrastructure as code (IAC).",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/020/553/377/small_2x/processing-icon-design-free-vector.jpg",
+    "price": "₹ 1899",
+    "CourseHighlights": [
+      "1. Dive into DevOps culture, principles, and practices.",
+      "2. Create automated CI/CD pipelines for efficient software delivery.",
+      "3. Explore containerization with Docker and container orchestration with Kubernetes.",
+      "4. Implement infrastructure as code (IAC) with tools like Terraform.",
+      "5. Ensure software quality with automated testing and monitoring.",
+      "6. Collaborate with development and operations teams for seamless integration.",
+      "7. Optimize software deployment and delivery workflows.",
+      "8. Prepare for a career in DevOps and cloud infrastructure management."
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Cybersecurity and Ethical Hacking",
+    "description": "Explore the world of cybersecurity and ethical hacking. Learn to protect systems and networks from cyber threats. Discover penetration testing techniques.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/011/457/088/small_2x/four-cyber-security-icons-vector.jpg",
+    "price": "₹ 1999",
+    "CourseHighlights": [
+      "1. Understand the fundamentals of cybersecurity and common threats.",
+      "2. Learn ethical hacking techniques to identify vulnerabilities.",
+      "3. Conduct penetration tests on systems and networks.",
+      "4. Secure web applications and databases from attacks.",
+      "5. Explore cryptography and secure communication methods.",
+      "6. Stay updated with the latest cybersecurity threats and defenses.",
+      "7. Gain hands-on experience through practical cybersecurity exercises.",
+      "8. Prepare for a career in cybersecurity or ethical hacking."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Cloud Computing with AWS",
+    "description": "Become a cloud expert with AWS (Amazon Web Services). Learn cloud architecture, deployment, and management. Build and deploy scalable applications in the cloud.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/022/234/301/small_2x/cloud-computing-concept-isometric-illustration-of-cloud-computing-concept-for-web-design-free-vector.jpg",
+    "price": "₹ 2099",
+    "CourseHighlights": [
+      "1. Explore cloud computing fundamentals and AWS services.",
+      "2. Build and deploy scalable applications in the AWS cloud.",
+      "3. Set up virtual servers, storage, and databases in AWS.",
+      "4. Implement security and compliance best practices in the cloud.",
+      "5. Optimize cost and performance in cloud environments.",
+      "6. Work on real-world AWS cloud projects.",
+      "7. Prepare for AWS certification exams and cloud-related careers."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Full-Stack JavaScript Development",
+    "description": "Master full-stack web development with JavaScript. Learn both front-end (React) and back-end (Node.js) development. Build complete web applications.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/019/518/508/small_2x/layer-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg",
+    "price": "₹ 2199",
+    "CourseHighlights": [
+      "1. Learn front-end web development with React.js.",
+      "2. Master back-end web development with Node.js and Express.js.",
+      "3. Build complete, high-performance web applications.",
+      "4. Explore RESTful API design and client-server communication.",
+      "5. Integrate databases and authentication into web applications.",
+      "6. Create responsive and user-friendly web interfaces.",
+      "7. Collaborate on full-stack JavaScript projects.",
+      "8. Prepare for a career as a full-stack developer in the web industry."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Artificial Intelligence and Machine Learning",
+    "description": "Dive into the world of AI and machine learning. Learn algorithms, deep learning, and natural language processing. Apply AI techniques to real-world problems.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/010/813/165/small_2x/artificial-intelligence-cybernetic-robot-high-technology-to-create-artificial-intelligence-ai-concept-illustration-free-vector.jpg",
+    "price": "₹ 2299",
+    "CourseHighlights": [
+      "1. Explore machine learning algorithms and techniques.",
+      "2. Dive into deep learning and neural networks.",
+      "3. Apply AI to natural language processing and computer vision.",
+      "4. Create predictive models for data analysis and decision-making.",
+      "5. Work on AI projects and Kaggle competitions.",
+      "6. Stay updated with the latest trends in AI and machine learning.",
+      "7. Collaborate with AI professionals in the industry.",
+      "8. Prepare for a career in artificial intelligence and data science."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Blockchain Development",
+    "description": "Become a blockchain developer. Learn blockchain fundamentals, smart contract development, and decentralized application (DApp) creation.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/018/007/654/small_2x/flowchart-flow-chart-data-database-business-flat-line-filled-icon-banner-template-free-vector.jpg",
+    "price": "₹ 2399",
+    "CourseHighlights": [
+      "1. Understand blockchain technology and its applications.",
+      "2. Learn smart contract development with Ethereum and Solidity.",
+      "3. Create decentralized applications (DApps) on blockchain platforms.",
+      "4. Explore blockchain security and consensus mechanisms.",
+      "5. Work on real-world blockchain projects.",
+      "6. Collaborate with blockchain developers in the industry.",
+      "7. Prepare for a career in blockchain development and cryptocurrency."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Game Development with Unity",
+    "description": "Embark on a game development journey with Unity. Learn to create 2D and 3D games for various platforms. Dive into game physics, graphics, and AI.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/015/484/168/small_2x/game-platform-cartoon-forest-landscape-2d-design-free-vector.jpg",
+    "price": "₹ 1799",
+    "CourseHighlights": [
+      "1. Master Unity game engine for 2D and 3D game development.",
+      "2. Create interactive game environments with physics and graphics.",
+      "3. Implement game AI and character controllers.",
+      "4. Build games for PC, mobile, and console platforms.",
+      "5. Optimize game performance and user experience.",
+      "6. Work on real-world game development projects.",
+      "7. Prepare for a career in game development and design."
+    ]
+  },
+  {
+    "id": 22,
+    "name": "UI/UX Design Fundamentals",
+    "description": "Explore the world of user interface (UI) and user experience (UX) design. Learn design principles, wireframing, prototyping, and usability testing.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/021/023/810/small_2x/islamic-website-exploring-islamic-teachings-and-traditions-free-vector.jpg",
+    "price": "₹ 1499",
+    "CourseHighlights": [
+      "1. Understand UI/UX design principles and best practices.",
+      "2. Create wireframes and prototypes for web and mobile applications.",
+      "3. Conduct user research and usability testing.",
+      "4. Learn design tools like Adobe XD and Figma.",
+      "5. Design user-friendly and visually appealing interfaces.",
+      "6. Collaborate with UI/UX professionals on real-world projects.",
+      "7. Prepare for a career in UI/UX design and user research."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "IoT (Internet of Things) Development",
+    "description": "Dive into the world of IoT (Internet of Things). Learn to build connected devices and applications. Explore sensors, data processing, and IoT security.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/018/595/454/small_2x/internet-of-things-blue-5-icon-pack-including-home-network-iot-wifi-internet-of-things-camera-creative-icons-design-free-vector.jpg",
+    "price": "₹ 1699",
+    "CourseHighlights": [
+      "1. Understand IoT concepts and its applications in real-world scenarios.",
+      "2. Learn to build IoT devices with microcontrollers and sensors.",
+      "3. Process and analyze data from IoT devices.",
+      "4. Develop IoT applications and dashboards for remote monitoring.",
+      "5. Explore IoT security and privacy considerations.",
+      "6. Work on real-world IoT projects and applications.",
+      "7. Prepare for a career in IoT development and smart devices."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Software Testing and Quality Assurance",
+    "description": "Master software testing techniques and quality assurance. Learn manual and automated testing, test case design, and software quality principles.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/009/761/983/small_2x/software-testing-and-site-development-banner-template-with-programmers-and-testers-busy-with-analysing-website-internet-technology-of-programming-and-data-optimization-flat-illustration-free-vector.jpg",
+    "price": "₹ 1599",
+    "CourseHighlights": [
+      "1. Understand software testing methodologies and quality assurance principles.",
+      "2. Learn manual testing techniques and test case design.",
+      "3. Dive into automated testing with tools like Selenium and Appium.",
+      "4. Ensure software quality through testing processes.",
+      "5. Collaborate with QA professionals on real-world testing projects.",
+      "6. Prepare for a career in software testing and QA analysis."
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Cloud-Native Application Development",
+    "description": "Become a cloud-native application developer. Learn to build cloud-native applications using microservices, containers, and serverless computing.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/021/970/528/small_2x/cloud-computing-big-data-source-center-online-storage-hosting-network-system-server-room-concept-illustration-free-vector.jpg",
+    "price": "₹ 1999",
+    "CourseHighlights": [
+      "1. Explore cloud-native architecture and microservices design.",
+      "2. Develop applications with containerization using Docker and Kubernetes.",
+      "3. Implement serverless computing with AWS Lambda and Azure Functions.",
+      "4. Ensure scalability and resilience in cloud-native applications.",
+      "5. Collaborate on real-world cloud-native development projects.",
+      "6. Prepare for a career in cloud-native application development."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Big Data Analytics with Hadoop",
+    "description": "Dive into big data analytics with Hadoop. Learn to process and analyze massive datasets. Explore Hadoop ecosystem tools like MapReduce and Hive.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/012/616/832/small_2x/big-data-digital-technology-concept-visualization-and-illustration-background-free-vector.jpg",
+    "price": "₹ 2099",
+    "CourseHighlights": [
+      "1. Understand big data concepts and challenges.",
+      "2. Learn Hadoop ecosystem components, including HDFS and MapReduce.",
+      "3. Process and analyze massive datasets using Hadoop tools.",
+      "4. Use Hive for SQL-like querying of big data.",
+      "5. Work on real-world big data analytics projects.",
+      "6. Prepare for a career in big data analytics and data engineering."
+    ]
+  },
+  {
+    "id": 27,
+    "name": "AR (Augmented Reality) App Development",
+    "description": "Explore the world of augmented reality (AR) app development. Learn to create interactive AR experiences for mobile devices and smart glasses.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/013/211/344/small_2x/modern-isometric-smart-startup-environment-illustration-suitable-for-diagrams-infographics-book-illustration-game-asset-and-other-graphic-related-assets-free-vector.jpg",
+    "price": "₹ 1799",
+    "CourseHighlights": [
+      "1. Understand AR technology and its applications in gaming, education, and more.",
+      "2. Learn AR development with Unity and ARKit/ARCore.",
+      "3. Create interactive AR apps for smartphones and smart glasses.",
+      "4. Implement AR features like 3D modeling, tracking, and geolocation.",
+      "5. Work on real-world AR app development projects.",
+      "6. Prepare for a career in AR app development and immersive experiences."
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Embedded Systems Programming",
+    "description": "Master embedded systems programming. Learn to develop software for microcontrollers and embedded devices. Explore IoT and robotics applications.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/014/439/023/small_2x/banner-of-programmatic-advertising-free-vector.jpg",
+    "price": "₹ 1699",
+    "CourseHighlights": [
+      "1. Understand embedded systems architecture and programming languages.",
+      "2. Develop software for microcontrollers and embedded devices.",
+      "3. Explore IoT applications and robotics with embedded systems.",
+      "4. Work on real-world embedded systems projects.",
+      "5. Collaborate with embedded systems professionals in the industry.",
+      "6. Prepare for a career in embedded systems programming and IoT."
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Flutter Mobile App Development",
+    "description": "Learn to build cross-platform mobile apps with Flutter. Develop for iOS and Android using a single codebase. Create beautiful and responsive mobile applications.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/018/021/323/small_2x/app-development-arrows-div-mobile-blue-icon-on-abstract-cloud-background-free-vector.jpg",
+    "price": "₹ 1899",
+    "CourseHighlights": [
+      "1. Explore Flutter and its advantages for cross-platform app development.",
+      "2. Build mobile apps for iOS and Android using Dart programming language.",
+      "3. Create beautiful and responsive mobile interfaces with Flutter widgets.",
+      "4. Implement navigation, animations, and state management in Flutter apps.",
+      "5. Optimize and deploy Flutter mobile apps to app stores.",
+      "6. Work on real-world mobile app development projects.",
+      "7. Stay up-to-date with the latest Flutter updates and best practices.",
+      "8. Prepare for a career as a mobile app developer with Flutter expertise."
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Software Engineering Best Practices",
+    "description": "Master software engineering best practices. Learn agile methodologies, version control, code review, and software architecture principles.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/021/320/300/small_2x/software-developer-icon-design-free-vector.jpg",
+    "price": "₹ 1599",
+    "CourseHighlights": [
+      "1. Understand software engineering principles and agile methodologies.",
+      "2. Learn version control with Git and collaborative coding on platforms like GitHub.",
+      "3. Explore code review techniques for maintaining code quality.",
+      "4. Understand software architecture and design patterns.",
+      "5. Implement best practices for software development, testing, and deployment.",
+      "6. Collaborate on real-world software engineering projects.",
+      "7. Prepare for a career in software engineering and development."
+    ]
+  },
+
+  {
+    "id": 31,
+    "name": "Mobile Game Development with Unity",
+    "description": "Learn to create immersive mobile games using Unity. Explore game mechanics, 2D and 3D graphics, and game monetization strategies.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/020/904/001/small_2x/nature-landscape-with-flying-star-balls-free-vector.jpg",
+    "price": "₹ 1999",
+    "CourseHighlights": [
+      "1. Master Unity game development for iOS and Android platforms.",
+      "2. Create captivating game mechanics and engaging gameplay.",
+      "3. Design 2D and 3D graphics and animations for mobile games.",
+      "4. Explore in-app purchases and ads for game monetization.",
+      "5. Optimize mobile games for performance and user experience.",
+      "6. Collaborate on real-world mobile game projects.",
+      "7. Prepare for a career as a mobile game developer in the gaming industry."
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Blockchain and Cryptocurrency Fundamentals",
+    "description": "Dive into blockchain technology and cryptocurrency. Understand blockchain's applications, smart contracts, and the cryptocurrency market.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/088/782/small_2x/blockchain-thick-line-filled-colors-icon-design-free-vector.jpg",
+    "price": "₹ 1799",
+    "CourseHighlights": [
+      "1. Explore blockchain technology, its principles, and decentralized networks.",
+      "2. Understand the workings of cryptocurrencies like Bitcoin and Ethereum.",
+      "3. Learn to develop and deploy smart contracts on blockchain platforms.",
+      "4. Analyze the cryptocurrency market and make informed investment decisions.",
+      "5. Work on real-world blockchain and cryptocurrency projects.",
+      "6. Prepare for a career in blockchain development or cryptocurrency analysis."
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Data Science and Machine Learning",
+    "description": "Delve into data science and machine learning. Learn data analysis, predictive modeling, and implement machine learning algorithms.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/007/894/053/small_2x/set-of-icons-related-to-data-analysis-contains-such-icons-as-data-visualization-big-data-cloud-data-traffic-analyse-global-data-statistics-and-more-free-vector.jpg",
+    "price": "₹ 1999",
+    "CourseHighlights": [
+      "1. Master data analysis with Python, pandas, and Jupyter notebooks.",
+      "2. Explore statistical analysis, data visualization, and data cleaning.",
+      "3. Implement machine learning algorithms for predictive modeling.",
+      "4. Dive into deep learning and neural networks for advanced applications.",
+      "5. Work on real-world data science and machine learning projects.",
+      "6. Prepare for a career as a data scientist or machine learning engineer."
+    ]
+  },
+  {
+    "id": 34,
+    "name": "DevOps and Continuous Integration/Continuous Deployment (CI/CD)",
+    "description": "Become a DevOps expert. Learn to automate software delivery pipelines, manage infrastructure as code, and ensure continuous integration and deployment.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/021/075/745/small_2x/optimization-icon-design-free-vector.jpg",
+    "price": "₹ 2099",
+    "CourseHighlights": [
+      "1. Understand DevOps principles, culture, and its role in software development.",
+      "2. Learn to automate software build, test, and deployment processes.",
+      "3. Implement infrastructure as code (IAC) using tools like Terraform.",
+      "4. Ensure continuous integration and continuous deployment (CI/CD) pipelines.",
+      "5. Work on real-world DevOps projects and containerization with Docker.",
+      "6. Prepare for a career in DevOps and cloud-based software development."
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Natural Language Processing (NLP)",
+    "description": "Dive into Natural Language Processing (NLP). Learn to process and analyze human language data, build chatbots, and sentiment analysis applications.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/010/390/675/small_2x/neon-lines-on-binary-code-background-polygon-brain-artificial-intelligence-abstract-template-concept-of-technology-engineering-learning-business-and-science-illustration-free-vector.jpg",
+    "price": "₹ 1799",
+    "CourseHighlights": [
+      "1. Explore the fundamentals of Natural Language Processing and its applications.",
+      "2. Learn to process and analyze text data using NLP libraries like NLTK and spaCy.",
+      "3. Build chatbots and conversational AI applications.",
+      "4. Perform sentiment analysis and language translation using NLP techniques.",
+      "5. Work on real-world NLP projects and language understanding systems.",
+      "6. Prepare for a career in NLP development and AI-powered applications."
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Internet of Things (IoT) Development",
+    "description": "Master IoT development. Learn to build smart connected devices, collect sensor data, and create IoT applications for various industries.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/013/758/176/small_2x/internet-of-things-isometric-landing-page-iot-free-vector.jpg",
+    "price": "₹ 1899",
+    "CourseHighlights": [
+      "1. Understand IoT concepts, sensors, and IoT protocols.",
+      "2. Learn to develop IoT applications for home automation, healthcare, and industrial use.",
+      "3. Collect and process sensor data using microcontrollers and IoT platforms.",
+      "4. Explore cloud-based IoT solutions and IoT security practices.",
+      "5. Work on real-world IoT development projects and IoT ecosystem integration.",
+      "6. Prepare for a career in IoT development and the growing world of connected devices."
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Python Web Frameworks: Django and Flask",
+    "description": "Explore Python web frameworks. Learn to build web applications with Django and Flask. Create dynamic and database-driven web apps.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/018/895/905/small_2x/coding-icon-free-vector.jpg",
+    "price": "₹ 1699",
+    "CourseHighlights": [
+      "1. Master Python web development with Django and Flask.",
+      "2. Create dynamic and database-driven web applications.",
+      "3. Understand the Model-View-Controller (MVC) architecture in web development.",
+      "4. Implement user authentication, form handling, and RESTful APIs.",
+      "5. Work on real-world web development projects using Python frameworks.",
+      "6. Prepare for a career as a Python web developer and backend engineer."
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Game Design and Development",
+    "description": "Enter the world of game design and development. Learn to create captivating game narratives, characters, and gameplay mechanics.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/008/138/516/small_2x/platform-game-background-template-with-items-free-vector.jpg",
+    "price": "₹ 1899",
+    "CourseHighlights": [
+      "1. Explore game design principles, storytelling, and character development.",
+      "2. Learn game development with engines like Unity and Unreal Engine.",
+      "3. Create 2D and 3D games with stunning graphics and immersive gameplay.",
+      "4. Implement game physics, AI, and multiplayer functionality.",
+      "5. Work on real-world game development projects and game publishing.",
+      "6. Prepare for a career as a game designer, developer, or artist in the gaming industry."
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Cloud-Native Application Security",
+    "description": "Secure cloud-native applications. Learn to protect cloud-based applications and microservices against cybersecurity threats.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/016/716/646/small_2x/flat-isometric-3d-illustration-concept-of-entering-cloud-server-security-password-free-vector.jpg",
+    "price": "₹ 2099",
+    "CourseHighlights": [
+      "1. Understand cloud-native application architecture and security challenges.",
+      "2. Learn to secure microservices, APIs, and containerized applications.",
+      "3. Implement identity and access management (IAM) in the cloud.",
+      "4. Explore cloud security tools and practices for threat detection and response.",
+      "5. Work on real-world cloud-native security projects and secure cloud migrations.",
+      "6. Prepare for a career in cloud-native application security and cloud security engineering."
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Augmented Reality (AR) Development",
+    "description": "Enter the world of Augmented Reality (AR). Learn to create AR apps for mobile devices, AR gaming, and AR-enhanced experiences.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/011/453/944/small_2x/man-with-mask-and-hologram-vector.jpg",
+    "price": "₹ 1799",
+    "CourseHighlights": [
+      "1. Explore Augmented Reality (AR) technology and its applications.",
+      "2. Learn to develop AR apps for iOS and Android devices.",
+      "3. Create AR gaming experiences and interactive AR content.",
+      "4. Implement AR markers, geolocation, and object recognition.",
+      "5. Work on real-world AR development projects and AR-enhanced applications.",
+      "6. Prepare for a career in AR development and the future of immersive technologies."
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Ethical Hacking and Cybersecurity",
+    "description": "Become an ethical hacker and cybersecurity expert. Learn to protect computer systems, networks, and data from cyber threats.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/011/457/088/small_2x/four-cyber-security-icons-vector.jpg",
+    "price": "₹ 2199",
+    "CourseHighlights": [
+      "1. Master ethical hacking techniques, penetration testing, and vulnerability assessment.",
+      "2. Learn to secure computer systems, networks, and web applications.",
+      "3. Understand cybersecurity best practices, encryption, and incident response.",
+      "4. Explore real-world cyber threats and hacking case studies.",
+      "5. Work on ethical hacking projects and simulations to sharpen your skills.",
+      "6. Prepare for a career in ethical hacking, cybersecurity, or information security."
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Cloud Computing and AWS Certification",
+    "description": "Become proficient in cloud computing with AWS. Learn to deploy, manage, and secure applications in the cloud.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/022/234/313/small_2x/cloud-computing-security-concept-with-laptop-tablet-pc-smartphone-and-shield-free-vector.jpg",
+    "price": "₹ 1999",
+    "CourseHighlights": [
+      "1. Explore cloud computing fundamentals and the AWS cloud platform.",
+      "2. Learn to deploy, manage, and scale applications on AWS infrastructure.",
+      "3. Understand AWS security, networking, and serverless computing.",
+      "4. Prepare for AWS certification exams and gain industry-recognized credentials.",
+      "5. Work on real-world cloud computing projects and cloud migrations.",
+      "6. Prepare for a career as a cloud architect, AWS engineer, or cloud solutions architect."
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Artificial Intelligence (AI) and Machine Learning",
+    "description": "Master the field of Artificial Intelligence (AI) and Machine Learning. Develop AI models, analyze data, and create intelligent applications.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/014/174/791/small_2x/artificial-inteligence-robot-profile-vector.jpg",
+    "price": "₹ 2299",
+    "CourseHighlights": [
+      "1. Explore the foundations of AI, machine learning, and deep learning.",
+      "2. Learn to develop AI models for natural language processing and computer vision.",
+      "3. Analyze large datasets and implement machine learning algorithms.",
+      "4. Understand reinforcement learning and AI ethics.",
+      "5. Work on real-world AI and machine learning projects.",
+      "6. Prepare for a career in AI development, machine learning engineering, or AI research."
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Full-Stack JavaScript Development",
+    "description": "Become a Full-Stack JavaScript Developer. Learn to build modern web applications using JavaScript, Node.js, and popular front-end libraries.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/007/938/815/small_2x/concept-illustration-programmer-engineer-with-laptop-sitting-at-the-office-desk-holding-a-pen-while-coding-and-developing-flat-cartoon-style-free-vector.jpg",
+    "price": "₹ 1699",
+    "CourseHighlights": [
+      "1. Master JavaScript for both front-end and back-end web development.",
+      "2. Learn Node.js for server-side JavaScript development.",
+      "3. Build web applications with popular front-end libraries like React or Vue.js.",
+      "4. Implement RESTful APIs, databases, and user authentication.",
+      "5. Work on real-world full-stack JavaScript projects and web app development.",
+      "6. Prepare for a career as a full-stack JavaScript developer or web application engineer."
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Cloud-Native Microservices Architecture",
+    "description": "Explore microservices architecture in the cloud. Learn to design, develop, and deploy scalable and resilient cloud-native applications.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/019/175/978/small_2x/cloud-setting-gear-arrow-abstract-flat-color-icon-template-free-vector.jpg",
+    "price": "₹ 2099",
+    "CourseHighlights": [
+      "1. Understand microservices architecture, principles, and advantages.",
+      "2. Learn to design and develop microservices-based cloud-native applications.",
+      "3. Implement containerization with Docker and orchestration with Kubernetes.",
+      "4. Explore service mesh and serverless computing for microservices.",
+      "5. Work on real-world microservices projects and cloud-native application development.",
+      "6. Prepare for a career in cloud-native development and microservices architecture."
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Big Data and Hadoop",
+    "description": "Dive into Big Data and Hadoop. Learn to process and analyze massive datasets, work with Hadoop ecosystems, and gain insights from data.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/011/427/754/small_2x/cloud-database-logo-icon-set-image-design-on-white-background-free-vector.jpg",
+    "price": "₹ 1799",
+    "CourseHighlights": [
+      "1. Explore the world of Big Data, its challenges, and opportunities.",
+      "2. Learn to process and analyze large datasets using Hadoop and Spark.",
+      "3. Gain insights through data mining, data warehousing, and data visualization.",
+      "4. Work with Hadoop ecosystems like Hive, Pig, and HBase.",
+      "5. Implement real-time data processing and Big Data analytics.",
+      "6. Prepare for a career as a Big Data engineer, data analyst, or data scientist."
+    ]
+  },
+  {
+    "id": 47,
+    "name": "UI/UX Design and Prototyping",
+    "description": "Master UI/UX design and prototyping. Learn to create user-friendly and visually appealing interfaces for web and mobile applications.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/013/248/292/small_2x/ui-web-design-template-file-free-vector.jpg",
+    "price": "₹ 1699",
+    "CourseHighlights": [
+      "1. Explore UI/UX design principles, user research, and wireframing.",
+      "2. Create visually appealing web and mobile app interfaces.",
+      "3. Learn to prototype and test user experiences for usability.",
+      "4. Understand responsive and mobile-first design.",
+      "5. Work on real-world UI/UX design projects and user interface development.",
+      "6. Prepare for a career as a UI/UX designer, user interface developer, or interaction designer."
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Full-Stack Ruby on Rails Development",
+    "description": "Become a Full-Stack Ruby on Rails Developer. Learn to build web applications with Ruby on Rails, a powerful and elegant web framework.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/019/098/185/small_2x/diamond-jewelry-business-logo-template-flat-color-free-vector.jpg",
+    "price": "₹ 1699",
+    "CourseHighlights": [
+      "1. Master Ruby on Rails for web application development.",
+      "2. Create database-driven web applications with Ruby on Rails.",
+      "3. Implement RESTful APIs, user authentication, and security best practices.",
+      "4. Develop responsive and dynamic web interfaces.",
+      "5. Work on real-world Ruby on Rails projects and web app development.",
+      "6. Prepare for a career as a full-stack Ruby on Rails developer or web application engineer."
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Mobile App Development with Flutter",
+    "description": "Learn to develop cross-platform mobile apps with Flutter. Build beautiful and high-performance apps for iOS and Android.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/007/494/774/small_2x/nft-non-fungible-token-infographic-with-lines-and-dots-network-pay-for-unique-collectible-in-video-game-art-isometric-illustration-of-nft-with-blockchain-technology-for-web-banner-template-free-vector.jpg",
+    "price": "₹ 1799",
+    "CourseHighlights": [
+      "1. Explore Flutter, Google's UI toolkit for building natively compiled applications.",
+      "2. Learn to create visually appealing and responsive mobile app interfaces.",
+      "3. Develop cross-platform mobile apps for iOS and Android.",
+      "4. Implement Flutter widgets, animations, and state management.",
+      "5. Work on real-world mobile app projects and app publishing.",
+      "6. Prepare for a career as a mobile app developer with Flutter expertise."
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Python for Data Analysis and Visualization",
+    "description": "Dive into Python for data analysis. Learn to manipulate and visualize data, perform statistical analysis, and create data-driven reports.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/018/011/529/small_2x/analytics-business-chart-diagram-graph-trends-icons-flat-and-line-filled-icon-set-blue-background-free-vector.jpg",
+    "price": "₹ 1599",
+    "CourseHighlights": [
+      "1. Master data manipulation and analysis with Python and libraries like Pandas.",
+      "2. Create data visualizations using Matplotlib and Seaborn.",
+      "3. Perform statistical analysis and hypothesis testing with Python.",
+      "4. Learn to work with real-world datasets and data-driven decision-making.",
+      "5. Prepare for a career as a data analyst, business analyst, or data scientist."
+    ]
+  }
+]

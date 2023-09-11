@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name":"Explore Our Top Courses",
+      "description":"Master coding languages with our comprehensive courses.",
+      "image":"https://www.classcentral.com/report/wp-content/uploads/2021/12/free-certificates-banner.png"
+    },
+    {
+        "id": 2,
+        "name":"Meet Our Instructors",
+        "description":"Learn from industry experts with real-world experience.",
+        "image":"https://chronicle.brightspotcdn.com/dims4/default/1c924a6/2147483647/strip/true/crop/973x547+0+50/resize/1200x675!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.amazonaws.com%2F14%2F9e%2F2784bde6490d92c48a8afd280e3f%2Finclusive-teaching-advice-guide-promo.png"
+    },
+    {
+        "id": 3,
+        "name":"Student Success Stories",
+        "description":"Read how Emily transformed her career through our education.",
+        "image":"https://online.usm.edu/wp-content/uploads/2017/06/StudentSuccessVectorWebAT.jpg"
+    },
+    
+    {
+        "id": 4,
+        "name":"Explore Our Top Courses",
+        "description":"Master coding languages with our comprehensive courses.",
+        "image":"https://www.classcentral.com/report/wp-content/uploads/2021/12/free-certificates-banner.png"
+      },
+      {
+          "id": 5,
+          "name":"Meet Our Instructors",
+          "description":"Learn from industry experts with real-world experience.",
+          "image":"https://chronicle.brightspotcdn.com/dims4/default/1c924a6/2147483647/strip/true/crop/973x547+0+50/resize/1200x675!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.amazonaws.com%2F14%2F9e%2F2784bde6490d92c48a8afd280e3f%2Finclusive-teaching-advice-guide-promo.png"
+      },
+      {
+          "id": 6,
+          "name":"Student Success Stories",
+          "description":"Read how Emily transformed her career through our education.",
+          "image":"https://online.usm.edu/wp-content/uploads/2017/06/StudentSuccessVectorWebAT.jpg"
+      }
+]

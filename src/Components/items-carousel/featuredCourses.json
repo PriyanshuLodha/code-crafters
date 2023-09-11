@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "name": "Web Development Fundamentals",
+    "description": "Kickstart your web development journey with this beginner-level course. Learn the basics of HTML, CSS, and JavaScript to create simple web pages.",
+    "image": "https://static.vecteezy.com/system/resources/previews/006/879/866/large_2x/website-construction-concept-illustration-with-laptop-free-vector.jpg",
+    "price": " ₹ 999",
+    "CourseHighlights": [
+      "1. Learn HTML, CSS, and JavaScript from scratch.",
+      "2. Build your first web page within the first few lessons.",
+      "3. Understand the fundamental concepts of web development.",
+      "4. Explore the latest best practices in web design and coding.",
+      "5. Get hands-on experience with real-world coding exercises.",
+      "6. Discover the secrets to creating responsive and user-friendly websites.",
+      "7. Dive into web development tools and frameworks.",
+      "8. Access a supportive online community for questions and discussions.",
+      "9. Receive personalized feedback and guidance from experienced instructors.",
+      "10. Gain a solid foundation for pursuing advanced web development courses."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Responsive Web Design",
+    "description": "Become an intermediate web developer by mastering the art of responsive web design. Create websites that look great on any device.",
+    "image": "https://static.vecteezy.com/system/resources/previews/000/304/793/non_2x/responsive-web-design-vector.jpg",
+    "price": " ₹ 1499",
+    "CourseHighlights": [
+      "1. Master the art of creating websites that adapt to any device or screen size.",
+      "2. Learn essential HTML and CSS techniques for responsive layouts.",
+      "3. Dive into media queries and breakpoints for precise control over your designs.",
+      "4. Explore flexible grids and fluid typography for seamless user experiences.",
+      "5. Optimize images and assets for fast loading on all devices.",
+      "6. Test and debug responsive designs across various browsers and devices.",
+      "7. Stay up-to-date with the latest trends and technologies in responsive web design.",
+      "8. Create a responsive portfolio project to showcase your skills to potential clients or employers.",
+      "9. Access resources and tools to streamline your responsive design workflow.",
+      "10. Gain a competitive edge in the web development industry with this valuable skill."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "JavaScript for Beginners",
+    "description": "Dive deeper into JavaScript with this beginner course. Learn to add interactivity and functionality to your web pages.",
+    "image": "https://static.vecteezy.com/system/resources/previews/021/320/295/non_2x/javascript-file-icon-design-free-vector.jpg",
+    "price": " ₹ 1499",
+    "CourseHighlights": [
+      "1. Start your coding journey with JavaScript, the versatile scripting language of the web.",
+      "2. Learn the fundamentals of JavaScript syntax and programming concepts.",
+      "3. Create interactive web pages and add dynamic functionality to your websites.",
+      "4. Explore essential JavaScript libraries and frameworks.",
+      "5. Gain hands-on experience with coding exercises and projects.",
+      "6. Master asynchronous programming and work with APIs for real-world data integration.",
+      "7. Receive personalized guidance and feedback from experienced JavaScript developers.",
+      "8. Join a supportive learning community to connect with fellow beginners and experts.",
+      "9. Build a solid foundation for further JavaScript development and advanced web projects.",
+      "10. No prior coding experience required - this course is designed for absolute beginners."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Front-End Frameworks: React.js",
+    "description": "Take your web development skills to an intermediate level by building dynamic web applications with React.js.",
+    "image": "https://static.vecteezy.com/system/resources/previews/019/123/548/non_2x/computation-computer-computing-data-future-abstract-flat-color-icon-template-free-vector.jpg",
+    "price": " ₹ 2499",
+    "CourseHighlights": [
+      "1. Master the popular React.js framework for building dynamic web applications.",
+      "2. Learn component-based architecture and the virtual DOM for efficient UI development.",
+      "3. Dive into state management with Redux for scalable applications.",
+      "4. Build responsive and interactive user interfaces with ease.",
+      "5. Explore best practices in modern front-end development.",
+      "6. Gain hands-on experience through real-world projects and coding challenges.",
+      "7. Stay up-to-date with the latest React.js updates and trends.",
+      "8. Collaborate with fellow learners in a supportive online community.",
+      "9. Receive mentorship and personalized guidance from experienced React.js developers.",
+      "10. Prepare for a rewarding career in front-end development with in-demand skills."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Node.js and Express for Back-End Development",
+    "description": "Intermediate-level course focusing on server-side development. Learn to build robust back-end applications using Node.js and Express.",
+    "image": "https://static.vecteezy.com/system/resources/previews/019/518/515/non_2x/upload-code-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg",
+    "price": " ₹ 1499",
+    "CourseHighlights": [
+      "1. Master back-end web development using Node.js and Express.js.",
+      "2. Learn to create robust, scalable, and efficient server-side applications.",
+      "3. Understand RESTful API design principles and create APIs from scratch.",
+      "4. Dive into asynchronous programming with JavaScript and handle data effectively.",
+      "5. Explore middleware, routing, and error handling techniques in Express.js.",
+      "6. Secure your applications with authentication and authorization strategies.",
+      "7. Optimize and deploy your Node.js applications for production environments.",
+      "8. Work on real-world projects and gain hands-on experience.",
+      "9. Receive personalized guidance and feedback from experienced instructors.",
+      "10. Advance your career as a back-end developer with in-demand skills."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Advanced Web Security",
+    "description": "Explore the intricacies of web security as an expert. Discover and mitigate vulnerabilities to protect your web applications.",
+    "image": "https://static.vecteezy.com/system/resources/previews/026/588/510/large_2x/data-protection-and-cyber-security-concept-illustration-perfect-for-web-design-banner-mobile-app-landing-page-flat-design-free-vector.jpg",
+    "price": " ₹ 3499",
+    "CourseHighlights": [
+      "1. Dive deep into the world of web security with expert guidance.",
+      "2. Learn to identify and mitigate common web vulnerabilities.",
+      "3. Explore ethical hacking techniques to uncover security flaws.",
+      "4. Understand best practices for securing web applications and databases.",
+      "5. Stay up-to-date with the latest cybersecurity threats and defenses.",
+      "6. Gain hands-on experience through practical security exercises.",
+      "7. Protect your websites and applications from malicious attacks.",
+      "8. Learn to implement security measures in real-world scenarios.",
+      "9. Access valuable resources and tools for ongoing security assessments.",
+      "10. Prepare for a rewarding career in web security or ethical hacking."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Full-Stack Development with MERN Stack",
+    "description": "Expert-level course covering the MERN (MongoDB, Express, React, Node.js) stack. Build complete, high-performance web applications.",
+    "image": "https://static.vecteezy.com/system/resources/previews/019/518/562/non_2x/structure-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg",
+    "price": " ₹ 1899",
+    "CourseHighlights": [
+      "1. Master the MERN (MongoDB, Express, React, Node.js) stack.",
+      "2. Develop dynamic and interactive web applications from start to finish.",
+      "3. Learn to create responsive and user-friendly front-end interfaces with React.",
+      "4. Build robust back-end APIs with Node.js and Express.",
+      "5. Dive into MongoDB, a NoSQL database, for efficient data management.",
+      "6. Gain practical experience through hands-on coding projects.",
+      "7. Understand the principles of full-stack architecture and deployment.",
+      "8. Collaborate with peers and receive mentorship from experienced developers.",
+      "9. Develop a portfolio of real-world projects to showcase your skills.",
+      "10. Prepare for exciting career opportunities in full-stack web development."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Web Performance Optimization",
+    "description": "Master the art of web performance optimization as an expert. Make your websites faster and more efficient for users.",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/002/213/905/small_2x/mock-up-design-website-flat-design-concept-seo-analysis-with-graph-and-chart-on-team-developer-building-a-rank-website-on-desktop-illustration-free-vector.jpg",
+    "price": " ₹ 1599",
+    "CourseHighlights": [
+      "1. Learn advanced techniques to optimize website speed and performance.",
+      "2. Improve user experience with faster loading times and smooth interactions.",
+      "3. Discover strategies for reducing page load times on both desktop and mobile devices.",
+      "4. Master the art of image and multimedia optimization for the web.",
+      "5. Implement best practices for efficient coding and resource management.",
+      "6. Dive deep into browser rendering processes and bottlenecks.",
+      "7. Explore content delivery networks (CDNs) and their impact on web performance.",
+      "8. Understand the importance of responsive design and mobile optimization.",
+      "9. Analyze real-world case studies of successful web performance improvements.",
+      "10. Boost your website's search engine ranking and conversion rates through speed optimization."
+    ]
+  }
+]

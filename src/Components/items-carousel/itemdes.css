@@ -1,0 +1,11 @@
+.head-des{
+    margin-top: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+.item-des{
+    margin: "10px 5px";
+    display: flex;
+    flex-direction: column;
+    height: 70vh;
+}

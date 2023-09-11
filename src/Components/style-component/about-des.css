@@ -1,0 +1,33 @@
+.about-main{
+    display: grid;
+    margin: 5px;
+    flex-direction: row;
+    grid-template-columns: 50% 50%;
+}
+/* .about-us{
+    width: 50%;
+}
+.description{
+    width: 50%;
+} */
+.about-us{
+    font-family: serif;
+    font-size: 40px;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    text-align: center;
+}
+.about-company{
+    background-color:rgb(250, 218, 179);
+    border-radius: 10px;
+    
+}
+.description{
+    word-spacing: 6px;
+    color: black;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

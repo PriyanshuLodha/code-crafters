@@ -1,0 +1,29 @@
+.drop-box{
+    display: grid;
+    min-width:8vw;
+    min-height: 30vh;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-top: 5px;
+    position:absolute;
+    grid-template-rows: auto;
+
+
+    border:1px solid black;
+    z-index: 2;
+}
+.drop-item-box{
+    min-width:8vw;
+    height: auto;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    border-left: none;
+    border-bottom: none;
+   text-align: center;
+   border-radius: 5px;
+   
+}
+.drop-down-des{
+    position: relative;
+}
