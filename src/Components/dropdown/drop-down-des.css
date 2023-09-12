@@ -15,7 +15,7 @@
 .drop-item-box{
     min-width:8vw;
     height: auto;
-    border: 1px solid black;
+    
     justify-content: center;
     align-items: center;
     border-left: none;
@@ -26,4 +26,7 @@
 }
 .drop-down-des{
     position: relative;
+}
+.drop-item-box:hover{
+   transform: scale(1.1);
 }

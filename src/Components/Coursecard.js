@@ -8,10 +8,11 @@ import Typography from "@mui/material/Typography";
 import { Link } from "react-router-dom";
 import { useDispatch } from "react-redux";
 import { fetchItem } from "./actions";
+import "./style-component/card-des.css";
 export default function Coursecard({ item }) {
   const dispatch = useDispatch();
   return (
-    <Card sx={{ maxWidth: 345, height: 400 }}>
+    <Card sx={{ maxWidth: 345, height: 400 }} className="card-design">
       <CardMedia sx={{ height: 140 }} image={item.image} title="green iguana" />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
