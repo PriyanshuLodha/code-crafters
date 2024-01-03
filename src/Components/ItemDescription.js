@@ -22,9 +22,12 @@ const ItemDescription = () => {
             {" "}
             What you will learn
           </span>
-          {item.CourseHighlights.map((course, i) => (
-            <div className="course-points">{course}</div>
-          ))}
+          {Object.values(item?.highlights).map(
+            (des) =>
+              typeof des == "string" && (
+                <div className="course-points">{des}</div>
+              )
+          )}
         </div>
         <div className="buy-now-des">
           <span

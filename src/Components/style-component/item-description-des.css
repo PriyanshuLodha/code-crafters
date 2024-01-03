@@ -43,14 +43,15 @@
 }
 .Features-course-des{
     display: grid;
-    grid-template-rows: repeat(10,1fr);
+    grid-template-rows: repeat(6,1fr);
     border: solid black;
     padding: 20px;
     border-radius: 10px;
 
 }
 .course-points{
-    margin-top: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .item-icons-des{

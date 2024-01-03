@@ -1,16 +1,27 @@
-import React from "react";
-import items from "./items-carousel/allCourses.json";
+import React, { useEffect } from "react";
+// import items from "./items-carousel/allCourses.json";
 import Coursecard from "./Coursecard";
 import "./style-component/course-des.css";
 import Paginationlayout from "./pagination/Paginationlayout";
 import { useState } from "react";
+import axios from "axios";
 const Courses = () => {
   const [curentPage, setcurrentPage] = useState(1);
   const [postperPage, setpostperPage] = useState(6);
-
+  const [coursedata, setcourseData] = useState([]);
+  useEffect(() => {
+    axios
+      .get("http://localhost:9191/api/course/getcourses")
+      .then((response) => {
+        setcourseData(response.data);
+      })
+      .catch((error) => {
+        console.error(error);
+      });
+  }, []);
   const lastpageContent = curentPage * postperPage;
   const firstpageContent = lastpageContent - postperPage;
-  const data = items.slice(firstpageContent, lastpageContent);
+  const data = coursedata.slice(firstpageContent, lastpageContent);
   return (
     <>
       <div className="course-design">
@@ -25,7 +36,7 @@ const Courses = () => {
         ))}
       </div>
       <Paginationlayout
-        totalPostPerPage={items.length}
+        totalPostPerPage={coursedata.length}
         postperPage={postperPage}
         setcurrentPage={setcurrentPage}
         currentPage={curentPage}
